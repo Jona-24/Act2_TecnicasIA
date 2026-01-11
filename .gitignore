@@ -1,0 +1,12 @@
+# Virtual environments
+tf_env/
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Otros
+.DS_Store
+Thumbs.db
